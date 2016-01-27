@@ -18,6 +18,7 @@ TODO: Check exactly how it is distributed in binary form (it has setuptools supp
 1. install [click](http://click.pocoo.org/)
 
     sudo pip install virtualenv
+    
     pip install click
 
 See other steps at https://www.youtube.com/watch?v=kNke39OZ2k0
